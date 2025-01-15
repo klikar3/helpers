@@ -1,5 +1,5 @@
 <?php
-namespace moonland\helpers;
+namespace klikar3\helpers;
 
 use yii\helpers\ArrayHelper;
 
