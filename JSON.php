@@ -1,5 +1,5 @@
 <?php
-namespace moonland\helpers;
+namespace klikar3\helpers;
 /**
  * JSON is a encoder and decoder json format to array or array format to json.
  * @author Moh Khoirul Anam <moh.khoirul.anaam@gmail.com>
