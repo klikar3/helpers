@@ -19,7 +19,7 @@ class JSON
 	{
 		return preg_replace_callback(
 				'/(?<=:)"function\((?:(?!}").)*}"/',
-				'static::json_strip_escape',
+				self::class.'::json_strip_escape',
 				$json
 		);
 	}
