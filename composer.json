@@ -1,5 +1,5 @@
 {
-    "name": "moonlandsoft/helpers",
+    "name": "klikar3/helpers",
     "description": "Helper for all widgets",
     "type": "library",
     "keywords": ["yii2","extension"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "moonland\\helpers\\": ""
+            "klikar3\\helpers\\": ""
         }
     }
 }
